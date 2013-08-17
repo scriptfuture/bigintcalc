@@ -1,0 +1,1 @@
+Information in README.txt (russian language)
